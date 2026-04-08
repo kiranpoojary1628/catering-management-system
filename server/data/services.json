@@ -1,0 +1,198 @@
+[
+  {
+    "id": 1,
+    "slug": "wedding-catering",
+    "title": "Wedding Catering",
+    "image": "https://images.unsplash.com/photo-1519225421980-715cb0215aed",
+    "price": "₹50,000 onwards",
+    "tagline": "Grand menus for unforgettable weddings",
+    "description": "Your wedding is a once-in-a-lifetime celebration, and the food should be just as memorable.",
+    "showMenu": true,
+    "menu": [
+      {
+        "name": "Welcome Drink",
+        "image": "/uploads/1773905875152.jpg"
+      },
+      {
+        "name": "Veg/Non Veg Starter",
+        "image": "/uploads/1773905897994.jpg"
+      },
+      {
+        "name": "Veg Chicken Biriyani",
+        "image": "/uploads/1773905919345.jpg"
+      },
+      {
+        "name": "Paneer Butter Masala",
+        "image": "/uploads/1773905935017.jpg"
+      },
+      {
+        "name": "Ice Cream",
+        "image": "/uploads/1773905948154.jpg"
+      },
+      {
+        "name": "Gulab Jamun",
+        "image": "/uploads/1773905960043.jpg"
+      },
+      {
+        "name": "Dal Makhani",
+        "image": "/uploads/1773905973843.jpg"
+      },
+      {
+        "name": "Butter Naan & Roti",
+        "image": "/uploads/1773906034645.jpg"
+      },
+      {
+        "name": "Rasmalai",
+        "image": "/uploads/1773906496231.jpg"
+      },
+      {
+        "name": "Sambar",
+        "image": "/uploads/1773906508689.jpg"
+      },
+      {
+        "name": "Poori",
+        "image": "/uploads/1773906547544.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "birthday-parties",
+    "title": "Birthday Parties",
+    "image": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3",
+    "price": "₹15,000 onwards",
+    "tagline": "Fun, flavorful & budget friendly",
+    "description": "Celebrate birthdays with joy, color, and delicious food.",
+    "showMenu": true,
+    "menu": [
+      {
+        "name": "French Fries",
+        "image": "/uploads/1774503148074.png"
+      },
+      {
+        "name": "Veg Pizza",
+        "image": "https://images.unsplash.com/photo-1601924582975-7c5c8b1e0b5d"
+      },
+      {
+        "name": "Burger",
+        "image": "https://images.unsplash.com/photo-1550547660-d9450f859349"
+      },
+      {
+        "name": "Pasta",
+        "image": "https://images.unsplash.com/photo-1525755662778-989d0524087e"
+      },
+      {
+        "name": "Soft Drinks",
+        "image": "https://images.unsplash.com/photo-1587019158091-1a103c5dd17f"
+      },
+      {
+        "name": "Chocolate Cake",
+        "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "corporate-events",
+    "title": "Corporate Events",
+    "image": "https://images.unsplash.com/photo-1556761175-4b46a572b786",
+    "price": "₹40,000 onwards",
+    "tagline": "Professional service with premium taste",
+    "description": "Corporate catering designed to impress with punctual service and refined menus.",
+    "showMenu": true,
+    "menu": [
+      {
+        "name": "Welcome Juice",
+        "image": "https://images.unsplash.com/photo-1497534446932-c925b458314e"
+      },
+      {
+        "name": "Veg Starter",
+        "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d"
+      },
+      {
+        "name": "South Indian Thali",
+        "image": "https://images.unsplash.com/photo-1604908554007-19f3a8b7d3e3"
+      },
+      {
+        "name": "North Indian Curry",
+        "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398"
+      },
+      {
+        "name": "Rice & Sambar",
+        "image": "https://images.unsplash.com/photo-1604908554007-19f3a8b7d3e3"
+      },
+      {
+        "name": "Tea / Coffee",
+        "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "house-warming",
+    "title": "House Warming",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+    "price": "₹20,000 onwards",
+    "tagline": "Traditional food, homely touch",
+    "description": "Authentic flavors and homely dishes for a traditional housewarming ceremony.",
+    "showMenu": true,
+    "menu": [
+      {
+        "name": "Kesari Bath",
+        "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950"
+      },
+      {
+        "name": "Rice",
+        "image": "https://images.unsplash.com/photo-1512058564366-c9e2c0aee46a"
+      },
+      {
+        "name": "Sambar",
+        "image": "https://images.unsplash.com/photo-1604908554007-19f3a8b7d3e3"
+      },
+      {
+        "name": "Rasam",
+        "image": "https://images.unsplash.com/photo-1604908554007-19f3a8b7d3e3"
+      },
+      {
+        "name": "Payasa",
+        "image": "https://images.unsplash.com/photo-1605197161470-5b8b1b7e3a7c"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "karavali-special",
+    "title": "Karavali Special",
+    "image": "https://images.unsplash.com/photo-1559847844-5315695dadae",
+    "price": "₹35,000 onwards",
+    "tagline": "Authentic karavali flavors & seafood delights",
+    "description": "Experience rich karavali cuisine with authentic Mangalorean flavors.",
+    "showMenu": true,
+    "menu": [
+      {
+        "name": "Fish Fry",
+        "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d"
+      },
+      {
+        "name": "Neer Dosa",
+        "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950"
+      },
+      {
+        "name": "Chicken Sukka",
+        "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398"
+      },
+      {
+        "name": "Prawn Curry",
+        "image": "https://images.unsplash.com/photo-1559847844-5315695dadae"
+      },
+      {
+        "name": "Solkadhi",
+        "image": "https://images.unsplash.com/photo-1497534446932-c925b458314e"
+      },
+      {
+        "name": "",
+        "image": ""
+      }
+    ]
+  }
+]
