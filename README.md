@@ -169,10 +169,10 @@ karavali-caterers/
 │   ├── package-lock.json
 │   ├── package.json
 │   └── vite.config.js
-├── README.md
 ├── .gitignore
 ├── package-lock.json
 └── package.json
+└── README.md
 ```
 
 The project is divided into two main modules:
