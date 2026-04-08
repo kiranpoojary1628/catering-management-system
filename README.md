@@ -168,9 +168,8 @@ karavali-caterers/
 │   ├── index.html
 │   ├── package-lock.json
 │   ├── package.json
-│   ├── README.md
 │   └── vite.config.js
-│
+├── README.md
 ├── .gitignore
 ├── package-lock.json
 └── package.json
