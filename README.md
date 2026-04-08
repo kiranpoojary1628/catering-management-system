@@ -1,5 +1,4 @@
-# 🍽️ Caterers  
-## Catering & Delivery Management System
+# Catering Management System (Full Stack) — Booking, Delivery & Admin Dashboard
 
 Caterers  is a full-stack web application designed to simulate how a real catering business can manage its services digitally. The purpose of this project was to move beyond a simple website and build a system that actually handles bookings, delivery tracking, feedback management, and automated email notifications.
 
