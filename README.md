@@ -1,5 +1,5 @@
 This project is a full-stack Catering Management System built using React, Node.js, and Express. It includes booking management, delivery tracking, admin dashboard, and email notifications.
-
+---
 
 # Catering Management System (Full Stack) — Booking, Delivery & Admin Dashboard
 
