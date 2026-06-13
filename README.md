@@ -177,29 +177,29 @@ karavali-caterers/
 
 The project is divided into two main modules:
 
-Server — handles backend logic, APIs, and data processing  
-User — handles frontend interface and user interaction  
+Server - handles backend logic, APIs, and data processing  
+User - handles frontend interface and user interaction  
 
 ---
 
 ## Installation Guide
 
-Step 1 — Clone the repository
+Step 1 - Clone the repository
 
 git clone https://github.com/kiranpoojary1628/catering-management-system.git  
-cd karavali-caterers  
+cd catering-management-system
 
-Step 2 — Install backend dependencies
+Step 2 - Install backend dependencies
 
 cd server  
 npm install  
 
-Step 3 — Install frontend dependencies
+Step 3 - Install frontend dependencies
 
 cd user  
 npm install  
 
-Step 4 — Start backend server
+Step 4 - Start backend server
 
 npm start  
 
@@ -207,7 +207,7 @@ The backend server will run on:
 
 http://localhost:5000  
 
-Step 5 — Start frontend
+Step 5 - Start frontend
 
 npm run dev  
 
