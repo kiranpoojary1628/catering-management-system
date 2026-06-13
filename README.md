@@ -3,7 +3,7 @@
 
 Caterers  is a full-stack web application designed to simulate how a real catering business can manage its services digitally. The purpose of this project was to move beyond a simple website and build a system that actually handles bookings, delivery tracking, feedback management, and automated email notifications.
 
-This project demonstrates a practical workflow where different roles — customers, administrators, and delivery staff — interact with the system to complete their tasks efficiently. It reflects how a real-world service business could operate using modern web technologies.
+This project demonstrates a practical workflow where different roles - customers, administrators, and delivery staff — interact with the system to complete their tasks efficiently. It reflects how a real-world service business could operate using modern web technologies.
 
 The application follows a client-server architecture where the frontend communicates with backend APIs to perform operations and manage data.
 
