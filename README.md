@@ -186,7 +186,7 @@ User — handles frontend interface and user interaction
 
 Step 1 — Clone the repository
 
-git clone https://github.com/your-username/karavali-caterers.git  
+git clone https://github.com/kiranpoojary1628/catering-management-system.git  
 cd karavali-caterers  
 
 Step 2 — Install backend dependencies
